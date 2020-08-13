@@ -3,7 +3,7 @@
 
 ```
 
-rm apify_storage -rf && DOMAIN="http://webapplicationconsultant.com" node index.js
+rm apify_storage -rf && DOMAIN="https://webapplicationconsultant.com" node index.js
 
 
 ```
