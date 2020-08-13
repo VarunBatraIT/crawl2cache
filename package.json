@@ -1,0 +1,27 @@
+{
+  "name": "crawl2cache",
+  "version": "1.0.0",
+  "description": "Crawls the wordpress blog so that it can be precached. It is useful if you are using pagespeed mod or nginx proxy caching. ",
+  "main": "index.js",
+  "dependencies": {
+    "apify": "^0.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunBatraIT/crawl2cahe.git"
+  },
+  "keywords": [
+    "crawl",
+    "crawl-sitemap"
+  ],
+  "author": "Varun Batra <codevarun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VarunBatraIT/crawl2cahe/issues"
+  },
+  "homepage": "https://github.com/VarunBatraIT/crawl2cahe#readme"
+}
